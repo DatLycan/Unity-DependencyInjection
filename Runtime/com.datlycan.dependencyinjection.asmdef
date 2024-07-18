@@ -2,7 +2,7 @@
     "name": "com.datlycan.dependencyinjection",
     "rootNamespace": "DatLycan.Packages.DependencyInjection",
     "references": [
-        "com.datlycan.utils"
+        "GUID:a48034716e6b0e848aa2a51cda352a23"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
