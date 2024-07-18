@@ -26,7 +26,7 @@
 ### Installing
 
 1. Install the [Git Dependency Resolver](https://github.com/mob-sakai/GitDependencyResolverForUnity).
-2. Import it in Unity with the Unity Package Manager using this URL:
+2. Import it in Unity with the Unity Package Manager using this URL:<br>
 ``https://github.com/DatLycan/Unity-DependencyInjection.git``
 
 ## 🎈 Usage <a name="usage"></a>
