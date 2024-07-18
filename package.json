@@ -1,0 +1,14 @@
+{
+  "name": "com.datlycan.dependencyinjection",
+  "version": "1.0.0",
+  "displayName": "Dependency Injection",
+  "description": "Custom Event System for Unity that allows communication between different scripts without direct references.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.datlycan.utils": "https://github.com/DatLycan/Unity-Utils.git"
+  },
+  "author": {
+    "name": "DatLycan",
+    "url": "https://github.com/DatLycan"
+  }
+}
