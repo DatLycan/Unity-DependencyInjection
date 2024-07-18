@@ -51,6 +51,6 @@
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- *Inspired by from [adammyhre's Dependency Injection video](https://www.youtube.com/watch?v=PJcBJ60C970).*
+- *Inspired by [adammyhre's Dependency Injection video](https://www.youtube.com/watch?v=PJcBJ60C970).*
 - *Using [mob-sekai's Git Dependency Resolver For Unity](https://github.com/mob-sakai/GitDependencyResolverForUnity)*
 
