@@ -25,8 +25,8 @@
 
 ### Installing
 
-Simply import it in Unity with the Unity Package Manager using this URL:
-
+1. Install the [Git Dependency Resolver](https://github.com/mob-sakai/GitDependencyResolverForUnity).
+2. Import it in Unity with the Unity Package Manager using this URL:
 ``https://github.com/DatLycan/Unity-DependencyInjection.git``
 
 ## 🎈 Usage <a name="usage"></a>
@@ -41,7 +41,7 @@ Simply import it in Unity with the Unity Package Manager using this URL:
     public class MyClassB : MonoBehaviour {
         [Inject] private string myString; // Output {My Provided String}
         // OR
-        [inject] private void InjectIntoMyString(string injectedString) => myOtherString = injectedString;
+        [Inject] private void InjectIntoMyString(string injectedString) => myOtherString = injectedString;
         private string myOtherString // Output {My Provided String}
     }
    ```
@@ -52,4 +52,5 @@ Simply import it in Unity with the Unity Package Manager using this URL:
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - *Inspired by from [adammyhre's Dependency Injection video](https://www.youtube.com/watch?v=PJcBJ60C970).*
+- *Using [mob-sekai's Git Dependency Resolver For Unity](https://github.com/mob-sakai/GitDependencyResolverForUnity)*
 
